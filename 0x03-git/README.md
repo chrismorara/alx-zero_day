@@ -1,1 +1,2 @@
-My second readme in 0x03-git directory
+My first readme
+I am enjoying the process
